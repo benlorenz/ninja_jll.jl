@@ -1,0 +1,252 @@
+[[ninja]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ba91a6039f37664dc18c99185d18aea6ab274e7e"
+libc = "musl"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "059bb058929e5335e5be85941b9ee3096203759e33845ec0ea082568e6828119"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.i686-linux-musl-cxx03.tar.gz"
+[[ninja]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a0499b8c5db2d921a89d21b57d8bb564af158806"
+libc = "glibc"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "ee125aa7dcc1f8d17df65872ff0a93cb8216570d66332a6f359c4d19aabf6d41"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ninja]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6a6d8aaa3e1f2e6486326284be3246559dfc846b"
+libc = "musl"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "aa9d0feeb5385e27f38a388ed6de6fa619cd55c12acf40e09e74512d6a7ddd03"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.i686-linux-musl-cxx11.tar.gz"
+[[ninja]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c52b08115bbee5ee1e9200191f175b5ec3df9ec"
+libc = "musl"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "afac6035e257d0772b0059d8f2d5ddf7f6dca5fe61d867a189adfb7b51f833d4"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.x86_64-linux-musl-cxx11.tar.gz"
+[[ninja]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b083bbc298f5f331ba6355d220dd59b24d7f6215"
+libc = "glibc"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "0cd690d656751d72246c335a1a2c8c42bf46299bb068986ad105c50a11e83e84"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[ninja]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "17fde936eb9dcc015bf1ec10e9a3eae6dd338dc8"
+os = "macos"
+
+    [[ninja.download]]
+    sha256 = "170cb9f9d4b78927af9d512dc6cd96d77a53b8083a9d8a7c9c895104718f93cd"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.x86_64-apple-darwin14-cxx03.tar.gz"
+[[ninja]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "af464ab12fe4ecadf7fa74387c3d37d392f523bf"
+os = "freebsd"
+
+    [[ninja.download]]
+    sha256 = "b4c979194aa5b68750f7daa58343d764b3db090beee8fab261847516b7dd0bda"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[ninja]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f6dded99afdf7d78df1795fab0e8ab1674106638"
+libc = "glibc"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "bc39462fdb4c3aae08ad496ec7ef5a9766a812e24580012a84bff37108dc30db"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[ninja]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4dff6d39ab60fef0b74a791d1ba90fcd57477fc5"
+libc = "glibc"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "1764ee97b7dfbd89b2f227045624a1d182a32313021599111525cc23eaee46e1"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[ninja]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc7d4c2c992ddb902021995de6b2a4a37e20d3f5"
+libc = "glibc"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "66acb2811dd6f05f942892f6551ddaf7a0551416ca7306313929f9858700f539"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.arm-linux-gnueabihf-cxx11.tar.gz"
+[[ninja]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a36485f61bb628c57a5fcaa58eee836fcbf29b57"
+libc = "glibc"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "d28d6c844ffbeb149b5d6f6cdc5042bcafd715bc4dfb296ef863a55b21d07887"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ninja]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "36a5b079557370e10d3e7ac15d01b7929cbf4702"
+libc = "musl"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "654e0bcdb866edf2a733554af282aae048718b541e5107e558346112b967d5d4"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.aarch64-linux-musl-cxx03.tar.gz"
+[[ninja]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "83b53ffa367a59fa7164cbc9d8e0de6f2e002274"
+libc = "musl"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "f4a9b6ec8f5d5fa956ebe14557c5c0d2ed51c9329d201ec5139a54cda6c7966a"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.arm-linux-musleabihf-cxx11.tar.gz"
+[[ninja]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e2246a9e0d8ed8059b4f9b06b33278b1cbef506f"
+os = "macos"
+
+    [[ninja.download]]
+    sha256 = "8df733b6fbab42fef64d6b6b478ac87f4edf7c7ec356bfefad66958aaa238bfd"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.x86_64-apple-darwin14-cxx11.tar.gz"
+[[ninja]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8cd7bda424782fb00031edd895b62837f6257e11"
+libc = "glibc"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "e1583e7d95e7204b09736a2ba5156e813c205ad21223d8c162eeba236dfa4db3"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[ninja]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8ca0246f01b64d3cc05cd06266da6568e1f867ea"
+os = "windows"
+
+    [[ninja.download]]
+    sha256 = "98911ddd8fbd63b9c9aa6978a4965ed7c8b7a9722f1561c38752fac4917a207b"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[ninja]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "126865b84cd0e3cc21dbf5041c32723dbad4b729"
+libc = "glibc"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "df64f4a0d142f0da38170ee0cceb0bb3feae5a38d95531033841c0336e3f71c0"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.arm-linux-gnueabihf-cxx03.tar.gz"
+[[ninja]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "245010e36c18846c089e3c846d1f46ea97fb4974"
+libc = "glibc"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "07c2ab2730969d7d60f387178f2b0cfff4c3d10e2af39190279ffd4c14b5fd54"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.i686-linux-gnu-cxx11.tar.gz"
+[[ninja]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "feab5dbf22f8b3f68dc3d5b653a9121500525bb4"
+libc = "glibc"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "4c72bc85479497bd2d6e740ab35506ee9b844f86c483c5c44e5aa5d97177ff21"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.i686-linux-gnu-cxx03.tar.gz"
+[[ninja]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2091f077f84d7df88c06e64b291dce36932a29cb"
+libc = "musl"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "e8cf56ab2a96680960f07087703547104403b1d15d917226ed644ee028ee379a"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.arm-linux-musleabihf-cxx03.tar.gz"
+[[ninja]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8fb5393de0d8633c1e805d6dbbf06ce621b11d24"
+libc = "musl"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "a669b377e1b678eccbeb467cd7844e20ed9361ffab1103bdd0c61ffdc8f47554"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.aarch64-linux-musl-cxx11.tar.gz"
+[[ninja]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9e429e51934b51082563bdd1c109bb01ca9840e6"
+os = "windows"
+
+    [[ninja.download]]
+    sha256 = "305d920ea0820ad80e9ef78526d55165b8058e96c70e44cbaece648b53e6f4d4"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.i686-w64-mingw32-cxx11.tar.gz"
+[[ninja]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "818f8b560d71b5078078a1f00b6e3c7b137bc470"
+os = "windows"
+
+    [[ninja.download]]
+    sha256 = "dea26be0a27db6315dd034eac5c9f186298d1be57dc720ad49348e903fe0244a"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.i686-w64-mingw32-cxx03.tar.gz"
+[[ninja]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b3de6fd006269c445745bc7c050d1e3fe15ff8f"
+os = "windows"
+
+    [[ninja.download]]
+    sha256 = "521dd08ee9536c5ad5a081ac1eaab18f817f31f9dde013826de72beafd3aae5a"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.x86_64-w64-mingw32-cxx11.tar.gz"
+[[ninja]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b28cbd45ad47307e478f25b29ec5fb465be43998"
+libc = "musl"
+os = "linux"
+
+    [[ninja.download]]
+    sha256 = "d8ca8bf12b8180deca57cc9b4d5453c12534f04845e29fe3b48d88c70c71eda1"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.x86_64-linux-musl-cxx03.tar.gz"
+[[ninja]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f2d64ce3c84dd49868bf9529234fd90647125d36"
+os = "freebsd"
+
+    [[ninja.download]]
+    sha256 = "3e98aa5cd09c5b268a9baff144e867c12858d17fd527bef2070474bf7d60156d"
+    url = "https://github.com/benlorenz/ninja_jll.jl/releases/download/ninja-v1.10.0+0/ninja.v1.10.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
